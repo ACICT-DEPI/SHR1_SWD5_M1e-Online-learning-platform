@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\shared\\_advancedlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\shared\\_advancedlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn.bll\\viewmodels\\studentvm\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|solutionrelative:elearn.bll\\viewmodels\\studentvm\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn.bll\\viewmodels\\studentvm\\editstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|solutionrelative:elearn.bll\\viewmodels\\studentvm\\editstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn.bll\\viewmodels\\studentvm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|solutionrelative:elearn.bll\\viewmodels\\studentvm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn.bll\\viewmodels\\studentvm\\getstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388CCEB-3E46-4C58-9ABF-6A3A39DE9BAB}|ELearn.BLL\\ELearn.BLL.csproj|solutionrelative:elearn.bll\\viewmodels\\studentvm\\getstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|c:\\users\\kareem sameh\\desktop\\elearn project v3\\elearn project\\elearn project\\elearn project\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46132A4C-3985-4474-9F5A-0496CF28DDEA}|Elearn Project\\Elearn Project.csproj|solutionrelative:elearn project\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStudentVM.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\CreateStudentVM.cs",
+              "RelativeDocumentMoniker": "ELearn.BLL\\ViewModels\\StudentVM\\CreateStudentVM.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\CreateStudentVM.cs",
+              "RelativeToolTip": "ELearn.BLL\\ViewModels\\StudentVM\\CreateStudentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:30:12.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:19:38.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAABEAAACgZmZmZiYgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:18:33.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdvancedLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Shared\\_AdvancedLayout.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Shared\\_AdvancedLayout.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Shared\\_AdvancedLayout.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Shared\\_AdvancedLayout.cshtml",
+              "ViewState": "AgIAAEEAAAAgMzMzM3MiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:56:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAgMzMzM3MvwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:50:23.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAANDMzM7MSwCUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T17:54:41.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditStudentVm.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\EditStudentVm.cs",
+              "RelativeDocumentMoniker": "ELearn.BLL\\ViewModels\\StudentVM\\EditStudentVm.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\EditStudentVm.cs",
+              "RelativeToolTip": "ELearn.BLL\\ViewModels\\StudentVM\\EditStudentVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:30:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T20:27:44.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Elearn Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Elearn Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:50:21.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:40:47.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:21:22.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:03:56.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetStudentVM.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\GetStudentVM.cs",
+              "RelativeDocumentMoniker": "ELearn.BLL\\ViewModels\\StudentVM\\GetStudentVM.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\GetStudentVM.cs",
+              "RelativeToolTip": "ELearn.BLL\\ViewModels\\StudentVM\\GetStudentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:30:30.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Elearn Project\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Elearn Project\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAkAAAAANDMzM7MXwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:34:55.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Elearn Project\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Elearn Project\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADAAAADAzszMzIwowFoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:50:32.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ELearn.BLL\\ViewModels\\StudentVM\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\ELearn.BLL\\ViewModels\\StudentVM\\LoginVM.cs",
+              "RelativeToolTip": "ELearn.BLL\\ViewModels\\StudentVM\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:30:34.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Elearn Project\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Elearn Project\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:35:36.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:19:22.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:19:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Elearn Project\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kareem sameh\\Desktop\\Elearn Project v3\\Elearn Project\\Elearn Project\\Elearn Project\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Elearn Project\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:18:54.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

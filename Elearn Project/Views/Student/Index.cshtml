@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ELearn.BLL.ViewModels.StudentVM.GetStudentVM>
+       
+@{
+    ViewData["Title"] = "Students List";
+}
+<div class="m-lg-5" style="margin-left: 20px;">
+    
+    <h1>Students List</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>User Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.FullName</td>
+                    <td>@student.Email</td>
+                    <td>@student.UserName</td>
+
+                    <td>
+                        <a href="@Url.Action("Details", "Student", new { id = student.Id })" class="btn btn-info">Details</a>
+                        <a href="@Url.Action("Edit", "Student", new { id = student.Id })" class="btn btn-warning">Edit</a>
+                        <a href="@Url.Action("Delete", "Student", new { id = student.Id })" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    <div class="Button">
+        <a href="@Url.Action("Create", "Student")" class="btn btn-success ">Create New Student</a>
+        <style>
+            .Button {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 10vh;
+            }
+        </style>
+    </div>
+
+
+</div>

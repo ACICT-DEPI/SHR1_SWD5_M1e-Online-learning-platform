@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ELearn.BLL.ViewModels.CourseVM.GetCourseVm>
+<div class="m-lg-5" style="margin-left: 20px;">
+<h2>Courses List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Title</td>
+                <td>@course.Description</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = course.Id })" class="btn btn-info">Details</a>
+                    <a href="@Url.Action("Edit", new { id = course.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", new { id = course.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create")" class="btn btn-success">Create New Course</a>
+</div>

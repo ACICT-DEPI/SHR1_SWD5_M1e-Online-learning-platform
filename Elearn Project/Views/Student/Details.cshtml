@@ -1,0 +1,23 @@
+﻿@model ELearn.BLL.ViewModels.StudentVM.GetStudentVM
+<div class="m-lg-5" style="margin-left: 20px ">
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h2>Student Details</h2>
+
+<div>
+    <h4>@Model.FullName</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sm-10">@Model.Email</dd>
+
+        <dt class="col-sm-2">User Name</dt>
+        <dd class="col-sm-10">@Model.UserName</dd>
+    </dl>
+</div>
+
+<a href="@Url.Action("Edit", "Student", new { id = Model.Id })" class="btn btn-warning">Edit</a>
+<a href="@Url.Action("Index", "Student")" class="btn btn-secondary">Back to List</a>
+</div>

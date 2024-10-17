@@ -1,0 +1,48 @@
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.deps.json
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.pdb
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\Elearn.DAL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\Elearn.DAL.pdb
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.AssemblyReference.cache
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.AssemblyInfoInputs.cache
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.AssemblyInfo.cs
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.sourcelink.json
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.Up2Date
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\refint\ELearn.BLL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.pdb
+C:\Users\kareem sameh\Desktop\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ref\ELearn.BLL.dll
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.deps.json
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.dll
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.pdb
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\Elearn.DAL.dll
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\Elearn.DAL.pdb
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.AssemblyReference.cache
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.AssemblyInfoInputs.cache
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.AssemblyInfo.cs
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.CoreCompileInputs.cache
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.sourcelink.json
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.Up2Date
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.dll
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\refint\ELearn.BLL.dll
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.pdb
+C:\Users\star bussiness\Downloads\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ref\ELearn.BLL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.deps.json
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\ELearn.BLL.pdb
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\Elearn.DAL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\bin\Debug\net8.0\Elearn.DAL.pdb
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.AssemblyReference.cache
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.AssemblyInfoInputs.cache
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.AssemblyInfo.cs
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.sourcelink.json
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.csproj.Up2Date
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\refint\ELearn.BLL.dll
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ELearn.BLL.pdb
+C:\Users\kareem sameh\Desktop\Elearn Project v3\Elearn Project\Elearn Project\ELearn.BLL\obj\Debug\net8.0\ref\ELearn.BLL.dll
